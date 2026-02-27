@@ -1,11 +1,10 @@
 {
   "name": "@gkd-kit/selector",
-  "version": "0.5.22",
+  "version": "0.5.23",
   "description": "@gkd-kit/selector",
   "main": "./kotlin/gkd-selector.mjs",
-  "types": "./kotlin/gkd-selector.d.ts",
+  "types": "./kotlin/gkd-selector.d.mts",
   "type": "module",
-  "private": false,
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
